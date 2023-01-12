@@ -11,7 +11,7 @@
 
 <div align="center">
 
- <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api?username=AlvarezFer&show_icons=true&theme=radical" />
+ <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlvarezFer&show_icons=true&theme=radical" />
 </div>
 
 
